@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -O  Holberton School
+gcc $CFILE -O cisfun
